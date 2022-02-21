@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(224, 209, 187);
+}
+
+.heading-one {
+    text-align: center;
+    color: rgb(255, 136, 0);
+}
+
+.heading-two {
+    text-align: center;
+    color: rgb(112, 76, 47);
+    font-family: 'Amatic SC', cursive;
+}
+
+.image {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.ingredients {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.heading-three {
+    text-align: center;
+    color: rgb(112, 76, 47);
+}
+
+.instructions {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+}
+
+.instructions ol {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.heading-four {
+    text-align: center;
+    color: rgb(255, 136, 0);
+    font-family: 'Source Code Pro', monospace;
+    padding-bottom: 3rem;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
